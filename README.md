@@ -53,8 +53,6 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
 </p>
 
----
-
 ## 🚀 Boosting Algorithms
 
 <p align="left">
@@ -62,15 +60,11 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
   <img src="https://avatars.githubusercontent.com/u/29545420?s=200&v=4" width="40"/>
 </p>
 
----
-
 ## 👁️ Computer Vision
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40"/>
 </p>
-
----
 
 ## 🧩 Backend / API
 
@@ -78,8 +72,6 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
 </p>
-
----
 
 ## ⚙️ MLOps / DevOps
 
@@ -90,8 +82,6 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
   <img src="https://avatars.githubusercontent.com/u/116847105?s=200&v=4" width="40"/>
 </p>
 
----
-
 ## 🗄️ Databases
 
 <p align="left">
@@ -99,15 +89,11 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
 
----
-
 ## 🔥 Big Data
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/>
 </p>
-
----
 
 ## ☁️ Cloud Platforms
 
@@ -116,16 +102,12 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
 </p>
 
----
-
 ## 💻 OS / Development Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
-
----
 
 ## 🧰 Workflow & Environments
 
