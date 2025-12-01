@@ -13,7 +13,7 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
 - 📫 How to reach me: amirpasha.2364@gmail.com.
 - 😄 Pronouns: he/him
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amirpasha25&show_icons=true&theme=tokyonight) 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amirpasha25&theme=react-dark) 
 ![Profile Views](https://komarev.com/ghpvc/?username=amirpasha25&color=blue)
 ![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=amirpasha25&show_icons=true&theme=default)
 ![trophy](https://github-profile-trophy.vercel.app/?username=amirpasha25&theme=flat&margin-w=10&v=1)
