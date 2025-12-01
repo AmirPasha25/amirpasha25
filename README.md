@@ -31,50 +31,55 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/amirpashaq/)
 
 
+
+
+### Skills
+### Skills
+
 <p align="left">
 
   <!-- Programming Languages -->
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/></a>
 
-  <!-- ML / DL -->
+  <!-- ML / DL Frameworks -->
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/></a>
   <a href="https://keras.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/></a>
   <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/></a>
 
-  <!-- AI / LLM -->
+  <!-- AI / LLM Tools -->
   <a href="https://huggingface.co/" target="_blank"><img src="https://raw.githubusercontent.com/huggingface/brand/main/hf-logo.svg" width="40" alt="HuggingFace"/></a>
   <a href="https://huggingface.co/docs/transformers" target="_blank"><img src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/en/img/transformers_logo.png" width="40" alt="Transformers"/></a>
   <a href="https://langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico" width="40" alt="LangChain"/></a>
 
-  <!-- Classical ML Libraries -->
+  <!-- Data & Scientific Libraries -->
   <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/></a>
-  <a href="https://scipy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40" alt="SciPy"/></a>
+  <a href="https://scipy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" alt="Seaborn"/></a>
 
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" alt="Seaborn"></a>
-
+  <!-- NLP Libraries -->
   <a href="https://www.nltk.org/" target="_blank"><img src="https://static.javatpoint.com/tutorial/nltk/images/nltk-tutorial.png" width="40" alt="NLTK"/></a>
   <a href="https://spacy.io/" target="_blank"><img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" width="40" alt="spaCy"/></a>
 
-  <a href="https://xgboost.ai/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="40"></a>
-  <a href="https://lightgbm.readthedocs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/LightGBM_logo.png" width="40"></a>
-  <a href="https://catboost.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/29545420?s=200&v=4" width="40"></a>
+  <!-- Boosting Algorithms -->
+  <a href="https://xgboost.ai/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="40"/></a>
+  <a href="https://lightgbm.readthedocs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/LightGBM_logo.png" width="40"/></a>
+  <a href="https://catboost.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/29545420?s=200&v=4" width="40"/></a>
 
   <!-- Computer Vision -->
   <a href="https://opencv.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40"/></a>
   <a href="https://github.com/ultralytics/yolov8" target="_blank"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/ultralytics-logo.png" width="40" alt="YOLO"/></a>
 
-  <!-- FastAPI / Flask / Backend -->
+  <!-- Backend / APIs -->
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/></a>
 
-  <!-- Containers & MLOps -->
+  <!-- MLOps / Pipelines -->
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/></a>
-
   <a href="https://airflow.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="40" alt="Airflow"/></a>
   <a href="https://www.getdbt.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/116847105?s=200&v=4" width="40" alt="DBT"/></a>
 
@@ -85,7 +90,7 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
   <!-- Big Data -->
   <a href="https://spark.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/></a>
 
-  <!-- Cloud -->
+  <!-- Cloud Platforms -->
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/></a>
@@ -104,92 +109,6 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
 </p>
 
 
-
-### Skills
-<p align="left">
-
-  <!-- Programming Languages -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" alt="R"/>
-  </a>
-
-  <!-- ML / DL -->
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
-  </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" alt="Keras"/>
-  </a>
-  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-Learn"/>
-  </a>
-
-  <!-- Data & Libraries -->
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  </a>
-
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  </a>
-
-  <!-- Big Data -->
-  <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40" alt="PySpark"/>
-  </a>
-
-  <!-- DevOps / Tools -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
-  </a>
-
-  <!-- Cloud -->
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
-  </a>
-
- 
-
-  <!-- OS / IDE -->
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-  </a>
-
-
-  <!-- Project Management -->
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
-  </a>
-
-</p>
 
 
 
