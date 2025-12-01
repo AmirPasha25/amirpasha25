@@ -21,8 +21,6 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amirpasha25&theme=react-dark) 
 
 
-<img src="https://github.com/user-attachments/assets/d6c493b0-8798-40da-80de-e41e21b342df" width="500" />
-
 
 
 
