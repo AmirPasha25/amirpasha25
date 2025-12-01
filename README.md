@@ -18,7 +18,7 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
 ![Profile Views](https://komarev.com/ghpvc/?username=amirpasha25&color=blue)
 ![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=amirpasha25&show_icons=true&theme=default)
 ![trophy](https://github-profile-trophy.vercel.app/?username=amirpasha25&theme=flat&margin-w=10&v=1)
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amirpasha25&theme=react-dark) 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amirpasha25&theme=tokyo-night)
 
 
 
