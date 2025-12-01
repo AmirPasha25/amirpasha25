@@ -91,9 +91,6 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
   </a>
 
   <!-- Cloud -->
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
-  </a>
   <a href="https://cloud.google.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP"/>
   </a>
