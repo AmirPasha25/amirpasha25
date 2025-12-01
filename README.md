@@ -101,16 +101,7 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
   </a>
 
-  <!-- BI & Analytics -->
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40" alt="Power BI"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40" alt="Tableau"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank">
-    <img src="https://raw.githubusercontent.com/microsoft/azuredevopslabs/master/labs/vstsextend/kubernetes/img/fabric.png" width="40" height="40" alt="Microsoft Fabric"/>
-  </a>
+ 
 
   <!-- OS / IDE -->
   <a href="https://www.linux.org/" target="_blank">
@@ -120,10 +111,6 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
   </a>
 
-  <!-- Microsoft Office -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" height="40" alt="Excel"/>
-  </a>
 
   <!-- Project Management -->
   <a href="https://www.atlassian.com/software/jira" target="_blank">
