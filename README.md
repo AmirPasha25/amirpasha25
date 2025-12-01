@@ -34,87 +34,59 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
 
 
 ### Skills
-## 🧠 AI / Machine Learning
 
 <p align="left">
+
+  <!-- AI / ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
-</p>
 
-## 📊 Data Science Libraries
-
-<p align="left">
+  <!-- Data Science -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
-</p>
 
-## 🚀 Boosting Algorithms
-
-<p align="left">
+  <!-- Boosting -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/29545420?s=200&v=4" width="40"/>
-</p>
 
-## 👁️ Computer Vision
-
-<p align="left">
+  <!-- CV -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40"/>
-</p>
 
-## 🧩 Backend / API
-
-<p align="left">
+  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
-</p>
 
-## ⚙️ MLOps / DevOps
-
-<p align="left">
+  <!-- MLOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/116847105?s=200&v=4" width="40"/>
-</p>
 
-## 🗄️ Databases
-
-<p align="left">
+  <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-</p>
 
-## 🔥 Big Data
-
-<p align="left">
+  <!-- Big Data -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40"/>
-</p>
 
-## ☁️ Cloud Platforms
-
-<p align="left">
+  <!-- Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
-</p>
 
-## 💻 OS / Development Tools
-
-<p align="left">
+  <!-- OS / Dev Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-</p>
 
-## 🧰 Workflow & Environments
-
-<p align="left">
+  <!-- Workflow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+
 </p>
 
 
