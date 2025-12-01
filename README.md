@@ -50,12 +50,7 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
   <!-- Data Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40"/>
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
-
-  <!-- NLP -->
-  <img src="https://static.javatpoint.com/tutorial/nltk/images/nltk-tutorial.png" width="40"/>
 
   <!-- Boosting -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="40"/>
@@ -84,7 +79,6 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
   <!-- Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
 
   <!-- OS / IDE -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
