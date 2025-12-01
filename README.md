@@ -43,8 +43,6 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
 </p>
 
----
-
 ## 📊 Data Science Libraries
 
 <p align="left">
