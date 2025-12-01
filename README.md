@@ -21,6 +21,7 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
 <img src="https://github.com/user-attachments/assets/98ac93bb-6682-45f7-a760-82b290415d8c" width="500" />
 
 
+
 ### Contact Me
 [![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:amirpasha.2364@gmail.com)
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/amir-pasha-727386252)
