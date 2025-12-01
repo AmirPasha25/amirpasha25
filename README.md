@@ -16,7 +16,7 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
 
 
 ![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=amirpasha25&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amirpasha25&theme=default&date=1)
+![GitHub Streak](https://streak-stats.demolab.com?user=amirpasha25)
 ![trophy](https://github-profile-trophy.vercel.app/?username=amirpasha25&theme=flat&margin-w=10&v=1)
 <img src="https://github.com/user-attachments/assets/d6c493b0-8798-40da-80de-e41e21b342df" width="500" />
 
