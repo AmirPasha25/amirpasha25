@@ -14,7 +14,7 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
 - 😄 Pronouns: he/him
 
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=amirpasha25&color=blue)
 ![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=amirpasha25&show_icons=true&theme=default)
 ![trophy](https://github-profile-trophy.vercel.app/?username=amirpasha25&theme=flat&margin-w=10&v=1)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=amirpasha25)
