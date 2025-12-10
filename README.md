@@ -1,7 +1,6 @@
-
-<table>
-  <tr>
-    <td style="vertical-align: top; width: 60%;">
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="vertical-align: top; border: none; width: 60%;">
 
 <h2>Hi there I’m Amir Pasha 👋</h2>
 
@@ -9,19 +8,19 @@ I am an AI Engineer with experience in deep learning, machine learning, and natu
 I have a Master of Science in Business Analytics from the University of North Texas.
 
 ### Professional Experience
-- 🔭 AI Engineer, DriverAI — Intern, June–August 2025  
-- 📈 AI/ML Engineer, Amazon — Aug 2020–Dec 2023  
-- 📊 Data Analyst, OYO — Apr 2019–Jul 2020
+- 🔭 AI Engineer, DriverAI — Intern (June–August 2025)  
+- 📈 AI/ML Engineer, Amazon — (Aug 2020–Dec 2023)  
+- 📊 Data Analyst, OYO — (Apr 2019–Jul 2020)
 
 ### Currently
 - 🌱 Learning Artificial Intelligence/LLMs  
-- 👯 Open to projects/internships/full-time roles  
-- 📫 Contact: amirpasha.2364@gmail.com  
+- 👯 Looking for projects/internships/full-time roles  
+- 📫 Email: amirpasha.2364@gmail.com  
 - 😄 Pronouns: he/him  
 
     </td>
 
-    <td style="width: 40%; text-align: center;">
+    <td style="text-align: center; border: none; width: 40%;">
       <img src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.png" width="300px">
     </td>
   </tr>
