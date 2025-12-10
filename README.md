@@ -1,30 +1,39 @@
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="vertical-align: top; border: none; width: 60%;">
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
 
-<h2>Hi there I’m Amir Pasha 👋</h2>
+  <!-- LEFT SIDE TEXT -->
+  <div style="flex: 1; padding-right: 20px;">
 
-I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP).  
-I have a Master of Science in Business Analytics from the University of North Texas.
+  <h2>Hi there I’m Amir Pasha 👋</h2>
 
-### Professional Experience
-- 🔭 AI Engineer, DriverAI — Intern (June–August 2025)  
-- 📈 AI/ML Engineer, Amazon — (Aug 2020–Dec 2023)  
-- 📊 Data Analyst, OYO — (Apr 2019–Jul 2020)
+  <p>
+  I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP).  
+  I have a Master of Science in Business Analytics from the University of North Texas.
+  </p>
 
-### Currently
-- 🌱 Learning Artificial Intelligence/LLMs  
-- 👯 Looking for projects/internships/full-time roles  
-- 📫 Email: amirpasha.2364@gmail.com  
-- 😄 Pronouns: he/him  
+  <h3>Professional Experience</h3>
+  <ul>
+    <li>🔭 AI Engineer, DriverAI — Intern (June–August 2025)</li>
+    <li>📈 AI/ML Engineer, Amazon — (Aug 2020–Dec 2023)</li>
+    <li>📊 Data Analyst, OYO — (Apr 2019–Jul 2020)</li>
+  </ul>
 
-    </td>
+  <h3>Currently</h3>
+  <ul>
+    <li>🌱 Learning Artificial Intelligence/LLMs</li>
+    <li>👯 Looking for projects, internships, full-time roles</li>
+    <li>📫 Email: amirpasha.2364@gmail.com</li>
+    <li>😄 Pronouns: he/him</li>
+  </ul>
 
-    <td style="text-align: center; border: none; width: 40%;">
-      <img src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.png" width="300px">
-    </td>
-  </tr>
-</table>
+  </div>
+
+  <!-- RIGHT SIDE IMAGE -->
+  <div style="flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.png" width="300px">
+  </div>
+
+</div>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amirpasha25&color=blue)
 ![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=amirpasha25&show_icons=true&theme=default)
