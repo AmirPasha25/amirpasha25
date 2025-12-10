@@ -1,38 +1,33 @@
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <!-- LEFT SIDE -->
+    <td width="60%" style="vertical-align: top; border: none; padding: 0 20px 0 0;">
 
-  <!-- LEFT SIDE TEXT -->
-  <div style="flex: 1; padding-right: 20px;">
+<h2>Hi there I’m Amir Pasha 👋</h2>
 
-  <h2>Hi there I’m Amir Pasha 👋</h2>
+I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP).  
+I have a Master of Science in Business Analytics from the University of North Texas.
 
-  <p>
-  I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP).  
-  I have a Master of Science in Business Analytics from the University of North Texas.
-  </p>
+### Professional Experience
+- 🔭 AI Engineer, DriverAI – Intern (June–August 2025)  
+- 📈 AI/ML Engineer, Amazon – (Aug 2020–Dec 2023)  
+- 📊 Data Analyst, OYO – (Apr 2019–Jul 2020)
 
-  <h3>Professional Experience</h3>
-  <ul>
-    <li>🔭 AI Engineer, DriverAI - Intern (June–August 2025)</li>
-    <li>📈 AI/ML Engineer, Amazon - (Aug 2020–Dec 2023)</li>
-    <li>📊 Data Analyst, OYO - (Apr 2019–Jul 2020)</li>
-  </ul>
+### Currently
+- 🌱 Learning Artificial Intelligence/LLMs  
+- 👯 Looking for projects, internships, full-time roles  
+- 📫 Email: amirpasha.2364@gmail.com  
+- 😄 Pronouns: he/him  
 
-  <h3>Currently</h3>
-  <ul>
-    <li>🌱 Learning Artificial Intelligence/LLMs</li>
-    <li>👯 Looking for projects, internships, full-time roles</li>
-    <li>📫 Email: amirpasha.2364@gmail.com</li>
-    <li>😄 Pronouns: he/him</li>
-  </ul>
+    </td>
 
-  </div>
+    <!-- RIGHT SIDE -->
+    <td width="40%" style="text-align: center; vertical-align: middle; border: none;">
+      <img src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.gif" width="300px">
+    </td>
+  </tr>
+</table>
 
-  <!-- RIGHT SIDE IMAGE -->
-  <div style="flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.gif" width="300px">
-  </div>
-
-</div>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amirpasha25&color=blue)
