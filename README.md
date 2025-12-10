@@ -1,27 +1,31 @@
 
-## Hi there I’m Amir Pasha 👋
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.png" width="600px">
-</p>
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 60%;">
 
+<h2>Hi there I’m Amir Pasha 👋</h2>
 
-
-
-
-I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP). I have a Master of Science in Business Analytics from the University of North Texas.
+I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP).  
+I have a Master of Science in Business Analytics from the University of North Texas.
 
 ### Professional Experience
-- 🔭 AI Engineer, DriverAI - I worked as an AI Engineer Intern from June to August 2025.
-- 📈 AI/ML Engineer, Amazon - I worked as a AI/ML Engineer from August 2020 to December 2023.
-- 📊 Data Analyst, OYO - I worked as a Data Analyst from April 2019 to July 2020.
+- 🔭 AI Engineer, DriverAI — Intern, June–August 2025  
+- 📈 AI/ML Engineer, Amazon — Aug 2020–Dec 2023  
+- 📊 Data Analyst, OYO — Apr 2019–Jul 2020
 
 ### Currently
-- 🌱 I’m currently learning Artificial Intelligence/LLM's.
-- 👯 I’m looking to collaborate on projects/internships/fulltime roles.
-- 📫 How to reach me: amirpasha.2364@gmail.com.
-- 😄 Pronouns: he/him
+- 🌱 Learning Artificial Intelligence/LLMs  
+- 👯 Open to projects/internships/full-time roles  
+- 📫 Contact: amirpasha.2364@gmail.com  
+- 😄 Pronouns: he/him  
 
+    </td>
 
+    <td style="width: 40%; text-align: center;">
+      <img src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.png" width="300px">
+    </td>
+  </tr>
+</table>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amirpasha25&color=blue)
 ![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=amirpasha25&show_icons=true&theme=default)
