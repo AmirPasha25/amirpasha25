@@ -6,6 +6,7 @@
 
 
 
+
 I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP). I have a Master of Science in Business Analytics from the University of North Texas.
 
 ### Professional Experience
