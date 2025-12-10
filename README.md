@@ -5,6 +5,7 @@
   <img src="assets/coder-in-the-zone-red-and-blue-j4j173889.png" width="600px">
 </p>
 
+
 I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP). I have a Master of Science in Business Analytics from the University of North Texas.
 
 ### Professional Experience
