@@ -2,7 +2,7 @@
 ## Hi there I’m Amir Pasha 👋
 
 <p align="center">
-  <img src="assets/coder-in-the-zone-red-and-blue-j4j173889.png" width="600px">
+  <img src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/assets/coder-in-the-zone-red-and-blue-j4j173889.png" width="600px">
 </p>
 
 
