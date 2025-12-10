@@ -12,9 +12,9 @@
 
   <h3>Professional Experience</h3>
   <ul>
-    <li>🔭 AI Engineer, DriverAI — Intern (June–August 2025)</li>
-    <li>📈 AI/ML Engineer, Amazon — (Aug 2020–Dec 2023)</li>
-    <li>📊 Data Analyst, OYO — (Apr 2019–Jul 2020)</li>
+    <li>🔭 AI Engineer, DriverAI - Intern (June–August 2025)</li>
+    <li>📈 AI/ML Engineer, Amazon - (Aug 2020–Dec 2023)</li>
+    <li>📊 Data Analyst, OYO - (Apr 2019–Jul 2020)</li>
   </ul>
 
   <h3>Currently</h3>
@@ -29,7 +29,7 @@
 
   <!-- RIGHT SIDE IMAGE -->
   <div style="flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.png" width="300px">
+    <img src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.gif" width="300px">
   </div>
 
 </div>
