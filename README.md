@@ -1,9 +1,10 @@
-<!-- Push the image down without shifting left -->
-<img width="1" height="80">
+<!-- Spacer to push image further down -->
+<img width="1" height="130">
 
 <img align="right" src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.gif" width="260">
 
 ## Hi there I’m Amir Pasha 👋
+
 
 I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP).  
 I have a Master of Science in Business Analytics from the University of North Texas.
