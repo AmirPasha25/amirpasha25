@@ -16,15 +16,20 @@ I have a Master of Science in Business Analytics from the University of North Te
 - 🌱 Learning Artificial Intelligence/LLMs  
 - 👯 Looking for projects, internships, full-time roles  
 - 📫 Email: amirpasha.2364@gmail.com  
-- 😄 Pronouns: he/him  
+- 😄 Pronouns: he/him
 
 
+## 🏆 GitHub Trophies (Static — Always Works)
 
-## 🏆 GitHub Achievements
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/achievements/starstruck.png" width="80"/>
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/achievements/pull-shark.png" width="80"/>
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/achievements/galaxy-brain.png" width="80"/>
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/achievements/yolo.png" width="80"/>
+<p>
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/default/badge_1.png" width="120" />
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/default/badge_2.png" width="120" />
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/default/badge_3.png" width="120" />
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/default/badge_4.png" width="120" />
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/default/badge_5.png" width="120" />
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/default/badge_6.png" width="120" />
+</p>
+
 
 ![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=amirpasha25&show_icons=true&theme=default)
 ![Profile Views](https://komarev.com/ghpvc/?username=amirpasha25&color=blue&style=for-the-badge)
