@@ -26,23 +26,23 @@ I have a Master of Science in Business Analytics from the University of North Te
 
 <p align="center">
 
-  <!-- Gold Trophy -->
-  <img src="https://img.shields.io/badge/AI%20Mastery-Gold-FBBF24?style=for-the-badge&logo=trophy&logoColor=white" />
+  <!-- GOLD -->
+  <img src="https://img.shields.io/badge/AI%20Mastery-%F0%9F%8F%86%20Gold-FFC300?style=plastic&logo=trophy&logoColor=black" />
 
-  <!-- Silver Trophy -->
-  <img src="https://img.shields.io/badge/Data%20Engineering-Silver-C0C0C0?style=for-the-badge&logo=trophy&logoColor=white" />
+  <!-- SILVER -->
+  <img src="https://img.shields.io/badge/Data%20Engineering-%F0%9F%A5%87%20Silver-C0C0C0?style=plastic&logo=trophy&logoColor=black" />
 
-  <!-- Bronze Trophy -->
-  <img src="https://img.shields.io/badge/Open%20Source-Bronze-CD7F32?style=for-the-badge&logo=trophy&logoColor=white" />
+  <!-- BRONZE -->
+  <img src="https://img.shields.io/badge/Open%20Source-%F0%9F%A5%88%20Bronze-CD7F32?style=plastic&logo=trophy&logoColor=black" />
 
-  <!-- Purple Badge -->
-  <img src="https://img.shields.io/badge/LLM%20Developer-Purple-8B5CF6?style=for-the-badge&logo=spark&logoColor=white" />
+  <!-- PURPLE NEON -->
+  <img src="https://img.shields.io/badge/LLM%20Developer-%F0%9F%94%8D%20Expert-9D4EDD?style=plastic&logo=python&logoColor=white" />
 
-  <!-- Neon Cyan Badge -->
-  <img src="https://img.shields.io/badge/Agentic%20AI%20Builder-Cyan-06B6D4?style=for-the-badge&logo=rocket&logoColor=white" />
+  <!-- CYAN FUTURISTIC -->
+  <img src="https://img.shields.io/badge/Agentic%20AI%20Builder-%F0%9F%9A%80%20Innovator-06B6D4?style=plastic&logo=rocket&logoColor=white" />
 
-  <!-- Fire Badge -->
-  <img src="https://img.shields.io/badge/🔥%20Code%20Streak%20Champion-Red-F87171?style=for-the-badge" />
+  <!-- FIRE BADGE -->
+  <img src="https://img.shields.io/badge/Code%20Streak%20Champion-%F0%9F%94%A5%20Elite-FF5733?style=plastic&logo=github&logoColor=white" />
 
 </p>
 
@@ -51,13 +51,11 @@ I have a Master of Science in Business Analytics from the University of North Te
 ## 📊 GitHub Activity Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-650+-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Repositories-45+-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Projects-12-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stars%20Earned-120+-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Commits-%E2%89%A5%20100-blueviolet?style=plastic&logo=github" />
+  <img src="https://img.shields.io/badge/Repositories-%E2%89%A5%2010-ff69b4?style=plastic&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-%E2%89%A5%205-yellow?style=plastic&logo=star" />
 </p>
 
----
 
 ## 💡 Special Recognitions
 
