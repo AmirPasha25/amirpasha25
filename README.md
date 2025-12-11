@@ -1,9 +1,7 @@
 ## Hi there I’m Amir Pasha 👋
 
-<img align="right" src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/vecteezy_programmer-working-with-computer_.jpg" style="margin-top: 20px;" />
 
-
-
+<img align="left" src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/vecteezy_programmer-working-with-computer_.jpg" width="340" style="margin-right: 20px; margin-bottom: 20px;" />
 I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP).  
 I have a Master of Science in Business Analytics from the University of North Texas.
 
