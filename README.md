@@ -1,4 +1,5 @@
-<br><br><br><br><br><br>
+<!-- Push the image down without shifting left -->
+<img width="1" height="80">
 
 <img align="right" src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.gif" width="260">
 
