@@ -18,9 +18,6 @@ I have a Master of Science in Business Analytics from the University of North Te
 - 📫 Email: amirpasha.2364@gmail.com  
 - 😄 Pronouns: he/him
 
-
-## 🏆 GitHub Trophies (Static — Always Works)
-
 <p>
   <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/default/badge_1.png" width="120" />
   <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/default/badge_2.png" width="120" />
