@@ -18,16 +18,6 @@ I have a Master of Science in Business Analytics from the University of North Te
 - 📫 Email: amirpasha.2364@gmail.com  
 - 😄 Pronouns: he/him
 
-<p>
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/default/badge_1.png" width="120" />
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/default/badge_2.png" width="120" />
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/default/badge_3.png" width="120" />
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/default/badge_4.png" width="120" />
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/default/badge_5.png" width="120" />
-  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/default/badge_6.png" width="120" />
-</p>
-
-
 ![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=amirpasha25&show_icons=true&theme=default)
 ![Profile Views](https://komarev.com/ghpvc/?username=amirpasha25&color=blue&style=for-the-badge)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amirpasha25&bg_color=ffffff&color=6a0dad&line=6a0dad&point=8a2be2&area=true&hide_border=true)
