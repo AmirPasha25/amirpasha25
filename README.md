@@ -1,8 +1,6 @@
-<h2>Hi there I’m Amir Pasha 👋</h2>
+<img align="right" src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.gif" width="260">
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.gif" width="260">
-</p>
+## Hi there I’m Amir Pasha 👋
 
 I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP).  
 I have a Master of Science in Business Analytics from the University of North Texas.
