@@ -1,6 +1,6 @@
 ## Hi there I’m Amir Pasha 👋
 
-<img align="right" src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.gif" width="260" style="margin-top: 20px;" />
+<img align="right" src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/programming_2029296.png" width="260" style="margin-top: 20px;" />
 
 
 
