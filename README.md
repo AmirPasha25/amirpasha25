@@ -24,9 +24,6 @@ I have a Master of Science in Business Analytics from the University of North Te
   <li>😄 Pronouns: he/him</li>
 </ul>
 
-    </td>
-
-<td>
 
 <!-- RIGHT IMAGE (GitHub-safe) -->
 
