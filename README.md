@@ -22,6 +22,51 @@ I have a Master of Science in Business Analytics from the University of North Te
 ![Profile Views](https://komarev.com/ghpvc/?username=amirpasha25&color=blue&style=for-the-badge)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amirpasha25&bg_color=ffffff&color=6a0dad&line=6a0dad&point=8a2be2&area=true&hide_border=true)
 
+## 🏆 Achievements & Metrics
+
+<p align="center">
+
+  <!-- Gold Trophy -->
+  <img src="https://img.shields.io/badge/AI%20Mastery-Gold-FBBF24?style=for-the-badge&logo=trophy&logoColor=white" />
+
+  <!-- Silver Trophy -->
+  <img src="https://img.shields.io/badge/Data%20Engineering-Silver-C0C0C0?style=for-the-badge&logo=trophy&logoColor=white" />
+
+  <!-- Bronze Trophy -->
+  <img src="https://img.shields.io/badge/Open%20Source-Bronze-CD7F32?style=for-the-badge&logo=trophy&logoColor=white" />
+
+  <!-- Purple Badge -->
+  <img src="https://img.shields.io/badge/LLM%20Developer-Purple-8B5CF6?style=for-the-badge&logo=spark&logoColor=white" />
+
+  <!-- Neon Cyan Badge -->
+  <img src="https://img.shields.io/badge/Agentic%20AI%20Builder-Cyan-06B6D4?style=for-the-badge&logo=rocket&logoColor=white" />
+
+  <!-- Fire Badge -->
+  <img src="https://img.shields.io/badge/🔥%20Code%20Streak%20Champion-Red-F87171?style=for-the-badge" />
+
+</p>
+
+---
+
+## 📊 GitHub Activity Metrics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-650+-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repositories-45+-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Projects-12-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stars%20Earned-120+-purple?style=flat-square" />
+</p>
+
+---
+
+## 💡 Special Recognitions
+
+- 🥇 **AI Engineering Excellence (2025)**  
+- 🚀 **Creator of Agentic AI Systems beating ChatGPT in math**  
+- 📦 **Built production-grade multimodal pipelines at DriverAI**  
+- 🧠 **Expert in RAG, LLMs, Vision Transformers, EfficientNet**  
+- 🏗 **Data Lakes & MLOps Architect (Airflow, Snowflake, AWS)**  
+- 🤝 **Mentor & TA for ML/AI at UNT**  
 
 
 
