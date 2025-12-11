@@ -1,6 +1,6 @@
 ## Hi there I’m Amir Pasha 👋
 
-<img align="right" src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/imgbin_f08bbc31096b3d88c56310f13fa7c1aa.png" width="260" style="margin-top: 20px;" />
+<img align="right" src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/imgbin_f08bbc31096b3d88c56310f13fa7c1aa.png" style="margin-top: 20px;" />
 
 
 
