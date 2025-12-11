@@ -1,37 +1,23 @@
-<table>
-  <tr>
-    <td>
-
-<!-- LEFT SIDE TEXT -->
-
 <h2>Hi there I’m Amir Pasha 👋</h2>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.gif" width="260">
+</p>
 
 I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP).  
 I have a Master of Science in Business Analytics from the University of North Texas.
 
-<h3>Professional Experience</h3>
-<ul>
-  <li>🔭 AI Engineer, DriverAI – Intern (June–August 2025)</li>
-  <li>📈 AI/ML Engineer, Amazon – (Aug 2020–Dec 2023)</li>
-  <li>📊 Data Analyst, OYO – (Apr 2019–Jul 2020)</li>
-</ul>
+### Professional Experience
+- 🔭 AI Engineer, DriverAI – Intern (June–August 2025)
+- 📈 AI/ML Engineer, Amazon – (Aug 2020–Dec 2023)
+- 📊 Data Analyst, OYO – (Apr 2019–Jul 2020)
 
-<h3>Currently</h3>
-<ul>
-  <li>🌱 Learning Artificial Intelligence/LLMs</li>
-  <li>👯 Looking for projects, internships, full-time roles</li>
-  <li>📫 Email: amirpasha.2364@gmail.com</li>
-  <li>😄 Pronouns: he/him</li>
-</ul>
+### Currently
+- 🌱 Learning Artificial Intelligence/LLMs  
+- 👯 Looking for projects, internships, full-time roles  
+- 📫 Email: amirpasha.2364@gmail.com  
+- 😄 Pronouns: he/him  
 
-
-<!-- RIGHT IMAGE (GitHub-safe) -->
-
-<img src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.gif" width="260"/>
-
-</td>
-</tr>
-</table>
 
 
 
