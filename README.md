@@ -1,9 +1,7 @@
-<!-- Spacer to push image further down -->
-<img width="1" height="130">
-
-<img align="right" src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.gif" width="260">
-
 ## Hi there I’m Amir Pasha 👋
+
+<img align="right" src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.gif" width="260" style="margin-top: 20px;" />
+
 
 
 I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP).  
