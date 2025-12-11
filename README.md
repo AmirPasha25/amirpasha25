@@ -1,3 +1,5 @@
+<br><br>
+
 <img align="right" src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.gif" width="260">
 
 ## Hi there I’m Amir Pasha 👋
@@ -15,8 +17,6 @@ I have a Master of Science in Business Analytics from the University of North Te
 - 👯 Looking for projects, internships, full-time roles  
 - 📫 Email: amirpasha.2364@gmail.com  
 - 😄 Pronouns: he/him  
-
-
 
 
 
