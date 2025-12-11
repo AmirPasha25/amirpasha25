@@ -1,40 +1,37 @@
-<div style="width: 100%; overflow: hidden;">
+<table>
+  <tr>
+    <!-- LEFT SIDE TEXT -->
+    <td style="width: 60%; vertical-align: top;">
 
-  <!-- LEFT TEXT -->
-  <div style="float: left; width: 60%;">
+      <h2>Hi there I’m Amir Pasha 👋</h2>
 
-  <h2>Hi there I’m Amir Pasha 👋</h2>
+      I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP).  
+      I have a Master of Science in Business Analytics from the University of North Texas.
 
-  <p>
-  I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP).  
-  I have a Master of Science in Business Analytics from the University of North Texas.
-  </p>
+      <h3>Professional Experience</h3>
+      <ul>
+        <li>🔭 AI Engineer, DriverAI – Intern (June–August 2025)</li>
+        <li>📈 AI/ML Engineer, Amazon – (Aug 2020–Dec 2023)</li>
+        <li>📊 Data Analyst, OYO – (Apr 2019–Jul 2020)</li>
+      </ul>
 
-  <h3>Professional Experience</h3>
-  <ul>
-    <li>🔭 AI Engineer, DriverAI – Intern (June–August 2025)</li>
-    <li>📈 AI/ML Engineer, Amazon – (Aug 2020–Dec 2023)</li>
-    <li>📊 Data Analyst, OYO – (Apr 2019–Jul 2020)</li>
-  </ul>
+      <h3>Currently</h3>
+      <ul>
+        <li>🌱 Learning Artificial Intelligence/LLMs</li>
+        <li>👯 Looking for projects, internships, full-time roles</li>
+        <li>📫 Email: amirpasha.2364@gmail.com</li>
+        <li>😄 Pronouns: he/him</li>
+      </ul>
 
-  <h3>Currently</h3>
-  <ul>
-    <li>🌱 Learning Artificial Intelligence/LLMs</li>
-    <li>👯 Looking for projects, internships, full-time roles</li>
-    <li>📫 Email: amirpasha.2364@gmail.com</li>
-    <li>😄 Pronouns: he/him</li>
-  </ul>
+    </td>
 
-  </div>
+    <!-- RIGHT SIDE IMAGE -->
+    <td style="width: 40%; text-align: center; vertical-align: top;">
+      <img src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.gif" width="260" />
+    </td>
+  </tr>
+</table>
 
-  <!-- RIGHT IMAGE -->
-  <div style="float: right; width: 35%; text-align: center;">
-    <img src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.gif" width="280px">
-  </div>
-
-</div>
-
-<div style="clear: both;"></div>
 
 
 ![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=amirpasha25&show_icons=true&theme=default)
