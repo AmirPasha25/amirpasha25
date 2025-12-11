@@ -1,36 +1,41 @@
 <table>
   <tr>
-    <!-- LEFT SIDE TEXT -->
-    <td style="width: 60%; vertical-align: top;">
+    <td>
 
-      <h2>Hi there I’m Amir Pasha 👋</h2>
+<!-- LEFT SIDE TEXT -->
 
-      I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP).  
-      I have a Master of Science in Business Analytics from the University of North Texas.
+<h2>Hi there I’m Amir Pasha 👋</h2>
 
-      <h3>Professional Experience</h3>
-      <ul>
-        <li>🔭 AI Engineer, DriverAI – Intern (June–August 2025)</li>
-        <li>📈 AI/ML Engineer, Amazon – (Aug 2020–Dec 2023)</li>
-        <li>📊 Data Analyst, OYO – (Apr 2019–Jul 2020)</li>
-      </ul>
+I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP).  
+I have a Master of Science in Business Analytics from the University of North Texas.
 
-      <h3>Currently</h3>
-      <ul>
-        <li>🌱 Learning Artificial Intelligence/LLMs</li>
-        <li>👯 Looking for projects, internships, full-time roles</li>
-        <li>📫 Email: amirpasha.2364@gmail.com</li>
-        <li>😄 Pronouns: he/him</li>
-      </ul>
+<h3>Professional Experience</h3>
+<ul>
+  <li>🔭 AI Engineer, DriverAI – Intern (June–August 2025)</li>
+  <li>📈 AI/ML Engineer, Amazon – (Aug 2020–Dec 2023)</li>
+  <li>📊 Data Analyst, OYO – (Apr 2019–Jul 2020)</li>
+</ul>
+
+<h3>Currently</h3>
+<ul>
+  <li>🌱 Learning Artificial Intelligence/LLMs</li>
+  <li>👯 Looking for projects, internships, full-time roles</li>
+  <li>📫 Email: amirpasha.2364@gmail.com</li>
+  <li>😄 Pronouns: he/him</li>
+</ul>
 
     </td>
 
-    <!-- RIGHT SIDE IMAGE -->
-    <td style="width: 40%; text-align: center; vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.gif" width="260" />
-    </td>
-  </tr>
+<td>
+
+<!-- RIGHT IMAGE (GitHub-safe) -->
+
+<img src="https://raw.githubusercontent.com/amirpasha25/amirpasha25/main/artificial-intelligence.gif" width="260"/>
+
+</td>
+</tr>
 </table>
+
 
 
 
