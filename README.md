@@ -21,7 +21,11 @@ I have a Master of Science in Business Analytics from the University of North Te
 
 
 ## 🏆 GitHub Achievements
-![Achievements](https://github-profile-achievements.vercel.app/api?username=amirpasha25)
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/achievements/starstruck.png" width="80"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/achievements/pull-shark.png" width="80"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/achievements/galaxy-brain.png" width="80"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/achievements/yolo.png" width="80"/>
+
 ![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=amirpasha25&show_icons=true&theme=default)
 ![Profile Views](https://komarev.com/ghpvc/?username=amirpasha25&color=blue&style=for-the-badge)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amirpasha25&bg_color=ffffff&color=6a0dad&line=6a0dad&point=8a2be2&area=true&hide_border=true)
