@@ -5,11 +5,6 @@
 I am an AI Engineer with experience in deep learning, machine learning, and natural language processing (NLP).  
 I have a Master of Science in Business Analytics from the University of North Texas.
 
-### Professional Experience
-- 🔭 AI Engineer, DriverAI – Intern (June–August 2025)
-- 📈 AI/ML Engineer, Amazon – (Aug 2020–Dec 2023)
-- 📊 Data Analyst, OYO – (Apr 2019–Jul 2020)
-
 ### Currently
 - 🌱 Learning Artificial Intelligence/LLMs  
 - 👯 Looking for projects, internships, full-time roles  
