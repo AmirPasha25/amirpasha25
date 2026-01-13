@@ -7,11 +7,19 @@ I have a Master of Science in Business Analytics from the University of North Te
 
 ### Currently
 - 🌱 Learning Artificial Intelligence/LLMs  
-- 👯 Looking for projects, internships, full-time roles  
+- 👯 Looking for projects, internships, full-time, contract roles  
 - 📫 Email: amirpasha.2364@gmail.com  
 - 😄 Pronouns: he/him
 
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=amirpasha25&show_icons=true&theme=default)
+
+## 🧠 Most Used Languages
+![Most Used Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=amirpasha25&layout=compact&theme=default)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amirpasha25&theme=default)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=amirpasha25&color=blue&style=for-the-badge)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amirpasha25&bg_color=ffffff&color=6a0dad&line=6a0dad&point=8a2be2&area=true&hide_border=true)
 
