@@ -11,7 +11,7 @@ I have a Master of Science in Business Analytics from the University of North Te
 - 📫 Email: amirpasha.2364@gmail.com  
 - 😄 Pronouns: he/him
 
-<img src="https://github-profile-trophy.vercel.app/?username=amirpasha25&theme=onedark&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=amirpasha25&theme=gruvbox&no-frame=true&margin-w=10" />
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirpasha25&show_icons=true&theme=default" />
 
