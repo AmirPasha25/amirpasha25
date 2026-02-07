@@ -11,7 +11,7 @@ I have a Master of Science in Business Analytics from the University of North Te
 - 📫 Email: amirpasha.2364@gmail.com  
 - 😄 Pronouns: he/him
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirpasha25&layout=compact&theme=transparent)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirpasha25&show_icons=true&theme=default" />
 ![Profile Views](https://komarev.com/ghpvc/?username=amirpasha25&color=blue&style=for-the-badge)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amirpasha25&bg_color=ffffff&color=6a0dad&line=6a0dad&point=8a2be2&area=true&hide_border=true)
 
